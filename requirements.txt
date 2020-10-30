@@ -1,0 +1,5 @@
+ipykernel
+bash_kernel
+RISE
+ipywidgets
+notebook
